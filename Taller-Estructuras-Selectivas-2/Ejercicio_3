@@ -1,10 +1,10 @@
 Algoritmo Ejercicio_3
 	//entradas
-	Escribir ("Digite un número: ")
+	Escribir ("Digite un nÃºmero: ")
 	Leer numero
 	//caja_negra
 	Si numero % 2 == 0 Entonces
-		Escribir "El número es par"
+		Escribir "El nÃºmero es par"
 	SiNo 
 		Escribir "El numero es impar"
 	FinSi
